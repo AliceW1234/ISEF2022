@@ -46,7 +46,7 @@ The RDN model but with the Sharpen layer added to it
 
 The Sharp U-net model.
 
-## Resuls
+## Results
 1. TCIA super resolution
 ![](results/TCIA_super.jpeg)
 2. TCIA deblur

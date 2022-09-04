@@ -55,3 +55,6 @@ The Sharp U-net model.
 ![](results/img_sr.png)
 4. AAPM deblur
 ![](results/img_aapm.png)
+
+## Thanks to:
+https://github.com/cjdsj/RDN-for-SR-by-keras

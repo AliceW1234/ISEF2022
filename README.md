@@ -45,3 +45,13 @@ The RDN model but with the Sharpen layer added to it
 ### Sharp_Unet.py
 
 The Sharp U-net model.
+
+## Resuls
+1. TCIA super resolution
+![](results/TCIA_super.jpeg)
+2. TCIA deblur
+![](results/img_tcia.png)
+3. AAPM super resolution 
+![](results/img_sr.png)
+4. AAPM deblur
+![](results/img_aapm.png)

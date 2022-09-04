@@ -57,4 +57,4 @@ The Sharp U-net model.
 ![](results/img_aapm.png)
 
 ## Thanks to:
-RDN progress inspired by: https://github.com/cjdsj/RDN-for-SR-by-keras
+RDN program inspired by: https://github.com/cjdsj/RDN-for-SR-by-keras

@@ -22,7 +22,7 @@ All of the program is ran in Google Colab.
 This program would calculate the PSNR, RMSE, and SSIM of the input.
 
 ### predict.py
-This program would take the weights and the input and predict the output(wheither it is super resolution or deblurring).
+This program would take the weights and the input and predict the output(whether it is super resolution or deblurring).
 
 ### sobel.py
 
